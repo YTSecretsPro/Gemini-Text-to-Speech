@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Text-to-Speech",
+  "description": "A text-to-speech application using the Gemini API to generate high-quality audio from text, similar to ElevenLabs.",
+  "requestFramePermissions": []
+}
